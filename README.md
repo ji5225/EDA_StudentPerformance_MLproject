@@ -1,7 +1,9 @@
 # EDA_StudentPerformance_MLproject
 <h3>Objective of this Analysis : -</h3>
-<pre><p>To understand the how the student's performance (test scores) is affected by the other variables 
-(Gender, Ethnicity, Parental level of education, Lunch, Test preparation course)<p></pre>
+<pre>
+    To understand the how the student's performance (test scores) is affected by the other 
+    variables(Gender,Ethnicity,Parental level of education, Lunch, Test preparation course)
+</pre>
 
 <h3>Problem Statement:-</h3>
 <pre>
